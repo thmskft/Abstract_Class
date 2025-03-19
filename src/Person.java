@@ -1,4 +1,3 @@
-import java.time.LocalDate;
 
 abstract class  Person {
     private String name;
